@@ -81,7 +81,7 @@ support both Reason and OCaml.
   For extra Reason support, see
   [sublime-reason](https://github.com/reasonml-editor/sublime-reason).
 
-- NeoVim/Vim 8 with Python 8: [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim).
+- NeoVim/Vim 8 with Python 3: [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim).
   For extra Reason support, see
   [vim-reason-plus](https://github.com/reasonml-editor/vim-reason-plus).
 
